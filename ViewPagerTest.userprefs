@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{B8EDAF94-1190-4B14-8F08-A6E04584B33E}|Default">
+  <MonoDevelop.Ide.ItemProperties.ViewPagerTest.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.4d0037b2d8cd61ed" AndroidDesignerPreferredTheme="MyTheme" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewPagerTest.Droid/Views/Fragments/FirstFragment.cs">
+    <Files>
+      <File FileName="ViewPagerTest.Droid/Views/HomeView.cs" Line="77" Column="28" />
+      <File FileName="ViewPagerTest.Droid/Adapters/ViewPagerTestFragmentAdapter.cs" Line="47" Column="10" />
+      <File FileName="ViewPagerTest.Droid/Views/Fragments/FirstFragment.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
